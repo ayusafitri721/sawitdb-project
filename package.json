@@ -11,6 +11,7 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "@wowoengine/sawitdb": "^2.6.0"
+    "@wowoengine/sawitdb": "^2.6.0",
+    "express": "^5.2.1"
   }
 }
